@@ -15,7 +15,7 @@ h2{
 select{
     margin:20px;
 }
-lable{
+label{
     padding:20px;
     color:rgb(80,80,80);
 }
@@ -24,22 +24,22 @@ lable{
     height:25px;
     width:85%;
 }
-#gen{
+#genm,#genf{
     margin:10px 20px;
 }
-#pin{
+#pin1,#pin2,#pin3,#pin4,#pin5,#pin6{
     width:25px;
     height:25px;
     text-align:center;
     font-size:20px;
 }
-#Aad{
+#Aad1,#Aad2,#Aad3,#Aad4,#Aad5,#Aad6,#Aad7,#Aad8,#Aad9,#Aad10,#Aad11,#Aad12{
     width:15px;
     height:25px;
     text-align:center;
     font-size:20px;
 }
-#lk{
+#lk1,#lk2,#lk3{
     margin-left:20px;
 }
 #pass{
